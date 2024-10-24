@@ -21,6 +21,7 @@ Linux user
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
