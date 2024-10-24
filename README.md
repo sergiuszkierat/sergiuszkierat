@@ -17,6 +17,7 @@ Linux user
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
