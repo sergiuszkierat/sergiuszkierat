@@ -23,8 +23,11 @@ Linux user
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
