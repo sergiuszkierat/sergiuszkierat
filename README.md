@@ -13,6 +13,7 @@ Linux user
 [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
+[![Rust](https://img.shields.io/badge/Rust-%23FFFFFF.svg?logo=rust&logoColor=black&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&link=https://github.com/sergiuszkierat)](https://github.com/sergiuszkierat)
